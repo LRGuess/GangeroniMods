@@ -5,6 +5,7 @@
   "description": "A bunch of mods for the gang",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "domkalanus-lethalterminalextender-1.2.0"
+    "domkalanus-lethalterminalextender-1.2.0",
+    "Evaisa-LethalLib-1.0.3"
   ]
 }
