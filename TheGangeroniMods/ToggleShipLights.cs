@@ -4,9 +4,9 @@ using UnityEngine;
 using System.Reflection;
 using LethalTerminalExtender.Patches;
 
-namespace ToggleShipLightsMod
+namespace GangeroniMods
 {
-    [BepInPlugin("com.yourname.togglelights", "Toggle Ship Lights", "1.0.1")]
+    [BepInPlugin("com.BigSaltyBeans.togglelights", "Toggle Ship Lights", "1.0.1")]
     public class ToggleShipLights : BaseUnityPlugin
     {
         public static ShipLights shipInteriorLights;
