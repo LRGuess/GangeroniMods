@@ -6,7 +6,7 @@ using LethalTerminalExtender.Patches;
 
 namespace GangeroniMods
 {
-    [BepInPlugin("com.BigSaltyBeans.togglelights", "Toggle Ship Lights", "1.0.1")]
+    [BepInPlugin("com.BigSaltyBeans.togglelights", "Toggle Ship Lights", "1.0.2")]
     public class ToggleShipLights : BaseUnityPlugin
     {
         public static ShipLights shipInteriorLights;
