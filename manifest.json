@@ -6,6 +6,7 @@
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "domkalanus-lethalterminalextender-1.2.0",
-    "Evaisa-LethalLib-1.0.3"
+    "Evaisa-LethalLib-1.0.3",
+    "Evaisa-HookGenPatcher-0.0.5"
   ]
 }
