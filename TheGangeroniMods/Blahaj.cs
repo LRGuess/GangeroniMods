@@ -2,8 +2,6 @@ using System.Reflection;
 using BepInEx;
 using BepInEx.Logging;
 using UnityEngine;
-using LethalLib.Modules;
-using LethalLib.Extras;
 
 namespace GangeroniMods
 {
