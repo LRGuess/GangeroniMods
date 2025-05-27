@@ -15,7 +15,7 @@ namespace GangeroniMods
         private void Awake()
         {
             Logger.LogInfo("ToggleShipLights loaded.");
-            Harmony harmony = new Harmony("com.yourname.togglelights");
+            Harmony harmony = new Harmony("com.BigSaltyBeans.togglelights");
             harmony.PatchAll();
             
             TerminalExtenderUtils.addQuickCommand("lights", "Toggle Ship Lights", true, (Terminal term, TerminalNode node) =>
